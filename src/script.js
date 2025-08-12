@@ -1,1 +1,2 @@
-console.log("hola mundo");
+import "./styles.css"
+console.log("hello world");
